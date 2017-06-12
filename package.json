@@ -1,0 +1,15 @@
+{
+  "name": "markdown-it-images-preview",
+  "version": "1.0.0",
+  "description": " A markdown-it plugin to preview local images.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "markdown-it",
+    "images"
+  ],
+  "author": "CHENXCHEN",
+  "license": "MIT"
+}
