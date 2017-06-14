@@ -1,8 +1,16 @@
 {
   "name": "markdown-it-images-preview",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A markdown-it plugin to preview local images.",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CHENXCHEN/markdown-it-images-preview.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CHENXCHEN/markdown-it-images-preview/issues"
+  },
+  "homepage": "https://github.com/CHENXCHEN/markdown-it-images-preview",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
